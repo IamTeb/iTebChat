@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1003715056583",
+    "firebase_url": "https://itebchat.firebaseio.com",
+    "project_id": "itebchat",
+    "storage_bucket": "itebchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003715056583:android:6bb03650d2b3eb27",
+        "android_client_info": {
+          "package_name": "com.example.codetribe.itebchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003715056583-6msoaunmj2rbndi08317n76pn5vpsa2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codetribe.itebchat",
+            "certificate_hash": "0A6AD6F6D35B2668D62DB5FB0A5B9DFD83015AF0"
+          }
+        },
+        {
+          "client_id": "1003715056583-i1131rhfrd2j1eangakum1u5s6m9hcf8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe21tZ5uPaC4bqFNrfIepx46vC-pgS1d8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003715056583-i1131rhfrd2j1eangakum1u5s6m9hcf8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
